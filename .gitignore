@@ -13,3 +13,8 @@ Thumbs.db
 .private/
 *.pem
 *.key
+
+.env
+logs/
+__pycache__/
+.pytest_cache/
