@@ -1,0 +1,12 @@
+{
+  "food": 70000,
+  "transport": 12000,
+  "rent": 125000,
+  "utilities": 25000,
+  "phone": 4000,
+  "entertainment": 20000,
+  "subscriptions": 8000,
+  "education": 30000,
+  "shopping": 30000,
+  "health": 10000
+}

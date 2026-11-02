@@ -1,0 +1,512 @@
+[
+  {
+    "date": "2026-09-01",
+    "category": "rent",
+    "description": "Room rent, Almaty",
+    "amount": 120000
+  },
+  {
+    "date": "2026-09-01",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-09-02",
+    "category": "subscriptions",
+    "description": "Spotify",
+    "amount": 1990
+  },
+  {
+    "date": "2026-09-02",
+    "category": "transport",
+    "description": "Metro, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-09-02",
+    "category": "food",
+    "description": "Magnum groceries",
+    "amount": 8500
+  },
+  {
+    "date": "2026-09-03",
+    "category": "phone",
+    "description": "Mobile tariff",
+    "amount": 3500
+  },
+  {
+    "date": "2026-09-03",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-09-03",
+    "category": "food",
+    "description": "Cafeteria lunch",
+    "amount": 1900
+  },
+  {
+    "date": "2026-09-04",
+    "category": "education",
+    "description": "Textbooks",
+    "amount": 9500
+  },
+  {
+    "date": "2026-09-05",
+    "category": "utilities",
+    "description": "Utilities (electricity, water, heating)",
+    "amount": 14500
+  },
+  {
+    "date": "2026-09-06",
+    "category": "utilities",
+    "description": "Home internet",
+    "amount": 4500
+  },
+  {
+    "date": "2026-09-07",
+    "category": "transport",
+    "description": "Bus + metro, 3 rides x 120",
+    "amount": 360
+  },
+  {
+    "date": "2026-09-07",
+    "category": "food",
+    "description": "Cafeteria lunch",
+    "amount": 2100
+  },
+  {
+    "date": "2026-09-08",
+    "category": "subscriptions",
+    "description": "Netflix",
+    "amount": 3500
+  },
+  {
+    "date": "2026-09-09",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-09-09",
+    "category": "food",
+    "description": "Coffee",
+    "amount": 1400
+  },
+  {
+    "date": "2026-09-10",
+    "category": "entertainment",
+    "description": "Cinema",
+    "amount": 3500
+  },
+  {
+    "date": "2026-09-10",
+    "category": "transport",
+    "description": "Metro, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-09-12",
+    "category": "food",
+    "description": "Small groceries",
+    "amount": 5200
+  },
+  {
+    "date": "2026-09-13",
+    "category": "transport",
+    "description": "Taxi",
+    "amount": 1800
+  },
+  {
+    "date": "2026-09-14",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-09-14",
+    "category": "food",
+    "description": "Cafeteria lunch",
+    "amount": 2000
+  },
+  {
+    "date": "2026-09-15",
+    "category": "shopping",
+    "description": "Shoes",
+    "amount": 25000
+  },
+  {
+    "date": "2026-09-16",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-09-17",
+    "category": "food",
+    "description": "Cafe with friends",
+    "amount": 4200
+  },
+  {
+    "date": "2026-09-18",
+    "category": "health",
+    "description": "Pharmacy",
+    "amount": 3600
+  },
+  {
+    "date": "2026-09-19",
+    "category": "food",
+    "description": "Magnum groceries",
+    "amount": 7800
+  },
+  {
+    "date": "2026-09-20",
+    "category": "entertainment",
+    "description": "Concert ticket",
+    "amount": 9000
+  },
+  {
+    "date": "2026-09-21",
+    "category": "transport",
+    "description": "Bus + metro, 3 rides x 120",
+    "amount": 360
+  },
+  {
+    "date": "2026-09-23",
+    "category": "transport",
+    "description": "Metro, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-09-23",
+    "category": "food",
+    "description": "Cafeteria lunch",
+    "amount": 1900
+  },
+  {
+    "date": "2026-09-26",
+    "category": "transport",
+    "description": "Taxi",
+    "amount": 2300
+  },
+  {
+    "date": "2026-09-27",
+    "category": "food",
+    "description": "Wolt delivery",
+    "amount": 4800
+  },
+  {
+    "date": "2026-09-28",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-09-29",
+    "category": "food",
+    "description": "Small groceries",
+    "amount": 5600
+  },
+  {
+    "date": "2026-09-30",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-01",
+    "category": "rent",
+    "description": "Room rent, Almaty",
+    "amount": 120000
+  },
+  {
+    "date": "2026-10-01",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-02",
+    "category": "subscriptions",
+    "description": "Spotify",
+    "amount": 1990
+  },
+  {
+    "date": "2026-10-02",
+    "category": "transport",
+    "description": "Metro, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-02",
+    "category": "food",
+    "description": "Magnum groceries",
+    "amount": 8800
+  },
+  {
+    "date": "2026-10-03",
+    "category": "phone",
+    "description": "Mobile tariff",
+    "amount": 3500
+  },
+  {
+    "date": "2026-10-05",
+    "category": "utilities",
+    "description": "Utilities (electricity, water, heating)",
+    "amount": 18500
+  },
+  {
+    "date": "2026-10-05",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-05",
+    "category": "food",
+    "description": "Cafeteria lunch",
+    "amount": 2000
+  },
+  {
+    "date": "2026-10-06",
+    "category": "utilities",
+    "description": "Home internet",
+    "amount": 4500
+  },
+  {
+    "date": "2026-10-06",
+    "category": "education",
+    "description": "Online course",
+    "amount": 12000
+  },
+  {
+    "date": "2026-10-06",
+    "category": "transport",
+    "description": "Bus + metro, 3 rides x 120",
+    "amount": 360
+  },
+  {
+    "date": "2026-10-08",
+    "category": "subscriptions",
+    "description": "Netflix",
+    "amount": 3500
+  },
+  {
+    "date": "2026-10-08",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-08",
+    "category": "food",
+    "description": "Coffee",
+    "amount": 1500
+  },
+  {
+    "date": "2026-10-09",
+    "category": "entertainment",
+    "description": "Cinema",
+    "amount": 3500
+  },
+  {
+    "date": "2026-10-09",
+    "category": "transport",
+    "description": "Metro, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-09",
+    "category": "food",
+    "description": "Cafeteria lunch",
+    "amount": 2200
+  },
+  {
+    "date": "2026-10-10",
+    "category": "subscriptions",
+    "description": "iCloud storage",
+    "amount": 990
+  },
+  {
+    "date": "2026-10-10",
+    "category": "transport",
+    "description": "Taxi",
+    "amount": 1800
+  },
+  {
+    "date": "2026-10-11",
+    "category": "food",
+    "description": "Small groceries",
+    "amount": 5400
+  },
+  {
+    "date": "2026-10-12",
+    "category": "shopping",
+    "description": "Clothes",
+    "amount": 21000
+  },
+  {
+    "date": "2026-10-12",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-13",
+    "category": "food",
+    "description": "Cafe lunch",
+    "amount": 3200
+  },
+  {
+    "date": "2026-10-14",
+    "category": "education",
+    "description": "Books",
+    "amount": 4500
+  },
+  {
+    "date": "2026-10-14",
+    "category": "transport",
+    "description": "Bus + metro, 3 rides x 120",
+    "amount": 360
+  },
+  {
+    "date": "2026-10-15",
+    "category": "transport",
+    "description": "Metro, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-16",
+    "category": "education",
+    "description": "Internship report printing",
+    "amount": 2500
+  },
+  {
+    "date": "2026-10-16",
+    "category": "education",
+    "description": "Internship report binding",
+    "amount": 1200
+  },
+  {
+    "date": "2026-10-16",
+    "category": "health",
+    "description": "Pharmacy",
+    "amount": 4200
+  },
+  {
+    "date": "2026-10-16",
+    "category": "food",
+    "description": "Wolt delivery",
+    "amount": 5100
+  },
+  {
+    "date": "2026-10-17",
+    "category": "entertainment",
+    "description": "Bowling",
+    "amount": 5000
+  },
+  {
+    "date": "2026-10-17",
+    "category": "transport",
+    "description": "Taxi",
+    "amount": 2200
+  },
+  {
+    "date": "2026-10-18",
+    "category": "food",
+    "description": "Magnum groceries",
+    "amount": 8200
+  },
+  {
+    "date": "2026-10-19",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-20",
+    "category": "shopping",
+    "description": "Phone case",
+    "amount": 3500
+  },
+  {
+    "date": "2026-10-21",
+    "category": "transport",
+    "description": "Bus + metro, 3 rides x 120",
+    "amount": 360
+  },
+  {
+    "date": "2026-10-21",
+    "category": "food",
+    "description": "Cafeteria lunch",
+    "amount": 1900
+  },
+  {
+    "date": "2026-10-22",
+    "category": "entertainment",
+    "description": "Concert ticket",
+    "amount": 9000
+  },
+  {
+    "date": "2026-10-23",
+    "category": "health",
+    "description": "Vitamins",
+    "amount": 3100
+  },
+  {
+    "date": "2026-10-23",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-24",
+    "category": "transport",
+    "description": "Taxi (late evening)",
+    "amount": 2500
+  },
+  {
+    "date": "2026-10-24",
+    "category": "food",
+    "description": "Pizza with friends",
+    "amount": 4800
+  },
+  {
+    "date": "2026-10-26",
+    "category": "transport",
+    "description": "Metro, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-27",
+    "category": "food",
+    "description": "Small groceries",
+    "amount": 5900
+  },
+  {
+    "date": "2026-10-28",
+    "category": "entertainment",
+    "description": "Karaoke",
+    "amount": 5500
+  },
+  {
+    "date": "2026-10-28",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  },
+  {
+    "date": "2026-10-29",
+    "category": "food",
+    "description": "Cafeteria lunch",
+    "amount": 2100
+  },
+  {
+    "date": "2026-10-30",
+    "category": "transport",
+    "description": "Bus, 2 rides x 120",
+    "amount": 240
+  }
+]
