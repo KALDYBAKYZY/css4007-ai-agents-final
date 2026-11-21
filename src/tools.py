@@ -45,3 +45,36 @@ def get_transactions(month, category=None):
         "count": len(month_items),
         "transactions": month_items,
     }
+
+
+def calculate_total(category, month):
+    if category is None:
+        return {"error": "Category is required."}
+
+    result = get_transactions(month, category)
+    if "error" in result:
+        return result
+
+    total = sum(t["amount"] for t in result["transactions"])
+    return {
+        "category": result["category"],
+        "month": result["month"],
+        "total": total,
+        "transaction_count": result["count"],
+    }
+
+
+def get_budget(category):
+    category = normalize(category)
+    if not validate_category(category):
+        return {"error": f"Unknown category: {category}."}
+
+    try:
+        budgets = load_json("budgets.json")
+    except (OSError, json.JSONDecodeError):
+        return {"error": "Could not read the budgets data."}
+
+    if category not in budgets:
+        return {"error": f"Budget not found for {category}."}
+
+    return {"category": category, "monthly_limit": budgets[category]}
