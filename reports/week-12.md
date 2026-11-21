@@ -15,11 +15,12 @@
 
 ## Important Commits
 
-- `<hash>` — Add month and category validators — https://github.com/KALDYBAKYZY/css4007-ai-agents-final/commit/<hash>
-- `<hash>` — Add get_transactions tool with data loading — https://github.com/KALDYBAKYZY/css4007-ai-agents-final/commit/<hash>
-- `<hash>` — Add calculate_total and get_budget tools — https://github.com/KALDYBAKYZY/css4007-ai-agents-final/commit/<hash>
-- `<hash>` — Add first pytest tests for validators and tools — https://github.com/KALDYBAKYZY/css4007-ai-agents-final/commit/<hash>
-- Add week 12 report
+- `e9b108d` — Add month and category validators — https://github.com/KALDYBAKYZY/css4007-ai-agents-final/commit/e9b108d
+- `b9bae6e` — Add get_transactions tool with data loading — https://github.com/KALDYBAKYZY/css4007-ai-agents-final/commit/b9bae6e
+- `d7dd1d5` — Add calculate_total and get_budget tools — https://github.com/KALDYBAKYZY/css4007-ai-agents-final/commit/d7dd1d5
+- `2764027` — Add first pytest tests for validators and tools — https://github.com/KALDYBAKYZY/css4007-ai-agents-final/commit/2764027
+- `9b4faa9` — Fix validators module content and imports — https://github.com/KALDYBAKYZY/css4007-ai-agents-final/commit/9b4faa9
+- `5a9c991` — Add week 12 report — https://github.com/KALDYBAKYZY/css4007-ai-agents-final/commit/5a9c991
 
 ## Current Functionality
 
